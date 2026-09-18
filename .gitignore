@@ -1,0 +1,12 @@
+*.class
+bin/
+out/
+target/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+.env
+*.local
