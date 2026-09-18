@@ -578,7 +578,28 @@ The project is organized into separate packages for model, DAO, service, excepti
 
 ### Screenshots
 
-Screenshots of the working application and testing results are included in the project report.
+### 1. Admin Login
+
+The application starts by checking the MySQL database connection and then displays the administrator login screen.
+
+![FoodWise Admin Login](OUTPUT%20SCREENSHOTS/Screenshot%202026-09-18%20101212.png)
+
+### 2. FoodWise Main Menu
+
+After successful login, the administrator can access student management, ingredient management, meal management, meal recommendation, saved meal plans, and report generation.
+
+![FoodWise Main Menu](OUTPUT%20SCREENSHOTS/Screenshot%202026-09-18%20101312.png)
+
+### 3. Generated Meal Planning Report
+
+FoodWise generates a meal planning report containing the recommended meal, number of students, cost per student, total cost, allocated budget, remaining budget, suitability score, and recommendation score.
+
+![FoodWise Generated Report](OUTPUT%20SCREENSHOTS/Screenshot%202026-09-18%20102930.png)
+
+
+### Complete Output Screenshots
+
+The complete set of application output screenshots is available in the `OUTPUT SCREENSHOTS` folder of this repository.
 
 ---
 
