@@ -1,5 +1,6 @@
 FOODWISE
 Java-Based Intelligent Meal Planning and Resource Optimization System for Student Welfare
+====================
 STUDENT DETAILS
 Registration No: 25BAI11414
 Name of Student: ANUSHKA SHARMA
@@ -8,7 +9,7 @@ Course Code: CSE2006
 School Name: SCAI
 Course: B.Tech CSE(AIML)
 University: VIT BHOPAL
-
+======================
 ##1. Project Overview
 
 FoodWise is a Java-based intelligent meal planning and resource optimization system developed for student welfare situations.
