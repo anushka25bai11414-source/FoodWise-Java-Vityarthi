@@ -588,7 +588,7 @@ The application starts by checking the MySQL database connection and then displa
 
 After successful login, the administrator can access student management, ingredient management, meal management, meal recommendation, saved meal plans, and report generation.
 
-![FoodWise Main Menu](OUTPUT%20SCREENSHOTS/Screenshot%202026-09-18%20101312.png)
+![FoodWise Main Menu](OUTPUT%20SCREENSHOTS/Screenshot%202026-09-18%20101508.png)
 
 ### 3. Generated Meal Planning Report
 
